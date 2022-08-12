@@ -172,11 +172,6 @@ public partial class TournamentsContext : DbContext
 
                     SqlParameter theIdParam = new SqlParameter("@id", SqlDbType.Int) { Direction = ParameterDirection.Output };
 
-                    //@MatchupId int, 33
-                    //@ParentMatchupId int, null
-                    //@TeamCompetingId int, 12
-                    //@id int = 0 output
-
                 MatchupEntry? y = MatchupEntries.FromSqlRaw($"EXECUTE dbo.spMatchupEntries_Insert @MatchupId, @ParentMatchupId, @TeamCompetingId, @id = @id OUTPUT",
                         matchupIdParam,
                         parentMatchupIdParam,
