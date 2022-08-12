@@ -15,5 +15,6 @@ namespace DataAccess.DBModels
         public virtual Matchup Matchup { get; set; } = null;
         public virtual Matchup? ParentMatchup { get; set; }
         public virtual TeamDB? TeamCompeting { get; set; }
+
     }
 }
