@@ -1,4 +1,6 @@
 ﻿<Properties StartupConfiguration="{CBFEB4A9-F105-45BF-8BC3-4B3BF4BB04DC}|Tournament_UI">
+  <MonoDevelop.Ide.ItemProperties.Tracker__UI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/joelschroeder/Documents/code/CS_projects/TournamentTracker/Tournament_Tracker/Tournament_Viewer/Views/Team/_createPerson.cshtml.cs" relfile="Tournament_Viewer/Views/Team/_createPerson.cshtml.cs" line="16" column="1" />
@@ -10,14 +12,12 @@
       <Breakpoint file="/Users/joelschroeder/Documents/code/CS_projects/TournamentTracker/Tournament_Tracker/DataAccess/DataContext/TournamentsContext.cs" relfile="DataAccess/DataContext/TournamentsContext.cs" line="84" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.Tracker__UI PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="DataAccess/DBModels/MatchupEntry.cs">
     <Files>
       <File FileName="Tournament_Viewer/Controllers/TournamentController.cs" Line="74" Column="1" />
       <File FileName="Tracker_Library/TournamentLogic.cs" Line="25" Column="1" />
       <File FileName="DataAccess/DataContext/TournamentsContext.cs" Line="134" Column="59" />
-      <File FileName="DataAccess/DBModels/MatchupEntry.cs" Line="8" Column="1" />
+      <File FileName="DataAccess/DBModels/MatchupEntry.cs" Line="18" Column="1" />
       <File FileName="DataAccess/DataContext/SqlConnector.cs" Line="57" Column="1" />
       <File FileName="DataAccess/DBModels/Tournament.cs" Line="14" Column="1" />
       <File FileName="Tournament_Viewer/Models/MatchupEntryViewModel.cs" Line="22" Column="34" />
@@ -28,9 +28,7 @@
           <Node name="Tournament_Tracker" expanded="True">
             <Node name="DataAccess" expanded="True">
               <Node name="DataContext" expanded="True" />
-              <Node name="DBModels" expanded="True">
-                <Node name="MatchupEntry.cs" selected="True" />
-              </Node>
+              <Node name="DBModels" expanded="True" />
             </Node>
             <Node name="Tracker_Library" expanded="True" />
             <Node name="Tracker_UI" expanded="True">
@@ -46,5 +44,5 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
 </Properties>
