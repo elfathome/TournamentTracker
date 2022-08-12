@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/joelschroeder/Documents/code/CS_projects/TournamentTracker/Tournament_Tracker/Tournament_Viewer/Tournament_Viewer.csproj": {}
+  },
+  "projects": {
+    "/Users/joelschroeder/Documents/code/CS_projects/TournamentTracker/Tournament_Tracker/Tournament_Viewer/Tournament_Viewer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/joelschroeder/Documents/code/CS_projects/TournamentTracker/Tournament_Tracker/Tournament_Viewer/Tournament_Viewer.csproj",
+        "projectName": "Tournament_Viewer",
+        "projectPath": "/Users/joelschroeder/Documents/code/CS_projects/TournamentTracker/Tournament_Tracker/Tournament_Viewer/Tournament_Viewer.csproj",
+        "packagesPath": "/Users/joelschroeder/.nuget/packages/",
+        "outputPath": "/Users/joelschroeder/Documents/code/CS_projects/TournamentTracker/Tournament_Tracker/Tournament_Viewer/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/joelschroeder/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+/Users/joelschroeder/Documents/code/CS_projects/TournamentTracker/Tournament_Tracker/DataAccess/bin/Debug/net6.0/DataAccess.deps.json
+/Users/joelschroeder/Documents/code/CS_projects/TournamentTracker/Tournament_Tracker/DataAccess/bin/Debug/net6.0/DataAccess.runtimeconfig.json
+/Users/joelschroeder/Documents/code/CS_projects/TournamentTracker/Tournament_Tracker/DataAccess/bin/Debug/net6.0/DataAccess.dll
+/Users/joelschroeder/Documents/code/CS_projects/TournamentTracker/Tournament_Tracker/DataAccess/bin/Debug/net6.0/DataAccess.pdb
+/Users/joelschroeder/Documents/code/CS_projects/TournamentTracker/Tournament_Tracker/DataAccess/obj/Debug/net6.0/DataAccess.csproj.AssemblyReference.cache
+/Users/joelschroeder/Documents/code/CS_projects/TournamentTracker/Tournament_Tracker/DataAccess/obj/Debug/net6.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joelschroeder/Documents/code/CS_projects/TournamentTracker/Tournament_Tracker/DataAccess/obj/Debug/net6.0/DataAccess.AssemblyInfoInputs.cache
+/Users/joelschroeder/Documents/code/CS_projects/TournamentTracker/Tournament_Tracker/DataAccess/obj/Debug/net6.0/DataAccess.AssemblyInfo.cs
+/Users/joelschroeder/Documents/code/CS_projects/TournamentTracker/Tournament_Tracker/DataAccess/obj/Debug/net6.0/DataAccess.csproj.CoreCompileInputs.cache
+/Users/joelschroeder/Documents/code/CS_projects/TournamentTracker/Tournament_Tracker/DataAccess/obj/Debug/net6.0/DataAccess.dll
+/Users/joelschroeder/Documents/code/CS_projects/TournamentTracker/Tournament_Tracker/DataAccess/obj/Debug/net6.0/refint/DataAccess.dll
+/Users/joelschroeder/Documents/code/CS_projects/TournamentTracker/Tournament_Tracker/DataAccess/obj/Debug/net6.0/DataAccess.pdb
+/Users/joelschroeder/Documents/code/CS_projects/TournamentTracker/Tournament_Tracker/DataAccess/obj/Debug/net6.0/DataAccess.genruntimeconfig.cache
+/Users/joelschroeder/Documents/code/CS_projects/TournamentTracker/Tournament_Tracker/DataAccess/obj/Debug/net6.0/ref/DataAccess.dll

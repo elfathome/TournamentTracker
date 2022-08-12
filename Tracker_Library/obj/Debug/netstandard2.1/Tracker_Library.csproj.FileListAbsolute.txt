@@ -1,0 +1,10 @@
+/Users/joelschroeder/Documents/code/CS_projects/TournamentTracker/Tournament_Tracker/Tracker_Library/bin/Debug/netstandard2.1/Tracker_Library.deps.json
+/Users/joelschroeder/Documents/code/CS_projects/TournamentTracker/Tournament_Tracker/Tracker_Library/bin/Debug/netstandard2.1/Tracker_Library.dll
+/Users/joelschroeder/Documents/code/CS_projects/TournamentTracker/Tournament_Tracker/Tracker_Library/bin/Debug/netstandard2.1/Tracker_Library.pdb
+/Users/joelschroeder/Documents/code/CS_projects/TournamentTracker/Tournament_Tracker/Tracker_Library/obj/Debug/netstandard2.1/Tracker_Library.csproj.AssemblyReference.cache
+/Users/joelschroeder/Documents/code/CS_projects/TournamentTracker/Tournament_Tracker/Tracker_Library/obj/Debug/netstandard2.1/Tracker_Library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joelschroeder/Documents/code/CS_projects/TournamentTracker/Tournament_Tracker/Tracker_Library/obj/Debug/netstandard2.1/Tracker_Library.AssemblyInfoInputs.cache
+/Users/joelschroeder/Documents/code/CS_projects/TournamentTracker/Tournament_Tracker/Tracker_Library/obj/Debug/netstandard2.1/Tracker_Library.AssemblyInfo.cs
+/Users/joelschroeder/Documents/code/CS_projects/TournamentTracker/Tournament_Tracker/Tracker_Library/obj/Debug/netstandard2.1/Tracker_Library.csproj.CoreCompileInputs.cache
+/Users/joelschroeder/Documents/code/CS_projects/TournamentTracker/Tournament_Tracker/Tracker_Library/obj/Debug/netstandard2.1/Tracker_Library.dll
+/Users/joelschroeder/Documents/code/CS_projects/TournamentTracker/Tournament_Tracker/Tracker_Library/obj/Debug/netstandard2.1/Tracker_Library.pdb
